@@ -1,9 +1,9 @@
 # The Red Rising API
 
 # What is the Red Rising API? 
-I LOVE the Red Rising saga and I was really bummed that there wasn't a Red Rising API out there yet (or at least I couldn't find one). I'm setting out to build the biggest and baddest RR api in the galaxy. 
+I LOVE the <a href="https://www.piercebrown.com/" target="_blank">Red Rising saga written by Pierce Brown</a> and I was really bummed that there wasn't a Red Rising API out there yet (or at least I couldn't find one). I'm setting out to build the biggest and baddest RR api in the galaxy. 
 
-**Link to project:** Check out the API <a href="https://red-rising-api.herokuapp.com/">here</a>
+**Link to project:** Check out the API <a href="https://red-rising-api.herokuapp.com/" target="_blank">here</a>
 
 ## How It's Made:
 
@@ -21,4 +21,4 @@ Right now the API only accepts requests for characters and certain attributes. I
 This is my first stab at building an API and it was A LOT of fun. I also learned how to use Heroku, Node and Express.
 
 ## Examples:
-Are you a Red Rising fan? Here's an <a href="https://redrisingtribute.netlify.app">early timeline web page I made.</a>
+Are you a Red Rising fan? Here's an <a href="https://redrisingtribute.netlify.app" target="_blank">early timeline web page I made.</a>
