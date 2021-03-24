@@ -44,6 +44,6 @@ app.get('/api/characters/:birthColor', (request, response) => {
     
 })
 
-app.listen(PORT, () => {
+app.listen(prcoess.env.PORT || PORT, () => {
     console.log(`Server running on port ${PORT}`)
 })
