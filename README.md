@@ -5,8 +5,6 @@ I LOVE the Red Rising saga and I was really bummed that there wasn't a Red Risin
 
 **Link to project:** Check out the API <a href="https://red-rising-api.herokuapp.com/">here</a>
 
-![alt tag](https://media.giphy.com/media/xT9IgusfDcqpPFzjdS/giphy.gif)
-
 ## How It's Made:
 
 **Tech used:** HTML, Javascript, Node, Express
@@ -20,7 +18,7 @@ Right now the API only accepts requests for characters and certain attributes. I
 
 ## Lessons Learned:
 
-This is my first stab at building an API and it was A LOT of fun. 
+This is my first stab at building an API and it was A LOT of fun. I also learned how to use Heroku, Node and Express.
 
 ## Examples:
 Are you a Red Rising fan? Here's an <a href="https://redrisingtribute.netlify.app">early timeline web page I made.</a>
