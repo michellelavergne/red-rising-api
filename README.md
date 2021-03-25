@@ -13,7 +13,7 @@ I created a server using Node and Express. I will be adding more HTML, CSS and J
 
 ## Optimizations
 
-This is very much still a work-in-progress. Right now the API only accepts requests for characters and certain attributes. I hope to continue to grow the API with requests such as alliances, planets, family trees, color meaning and sigils. You can access a simple client side interface <a href="https://github.com/michellelavergne/red-rising-client-side" target="__blank>here</a> to demo how it works. 
+This is very much still a work-in-progress. Right now the API only accepts requests for characters and certain attributes. I hope to continue to grow the API with requests such as alliances, planets, family trees, color meaning and sigils. You can access a simple client side interface <a href="https://github.com/michellelavergne/red-rising-client-side">here</a> to demo how it works. 
 
 
 ## Lessons Learned:
