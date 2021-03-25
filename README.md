@@ -13,7 +13,7 @@ I created a server using Node and Express. I will be adding more HTML, CSS and J
 
 ## Optimizations
 
-Right now the API only accepts requests for characters and certain attributes. I hope to continue to grow the API with requests such as alliances, planets, family trees, color meaning and sigils. 
+This is very much still a work-in-progress. Right now the API only accepts requests for characters and certain attributes. I hope to continue to grow the API with requests such as alliances, planets, family trees, color meaning and sigils. 
 
 
 ## Lessons Learned:
